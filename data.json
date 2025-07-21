@@ -1,0 +1,47 @@
+{
+    "sensors": {
+      "tds": {
+        "-Naaa111": {
+          "timestamp": 1721548800,
+          "value": 500
+        },
+        "-Naaa112": {
+          "timestamp": 1721549400,
+          "value": 495
+        },
+        "-Naaa113": {
+          "timestamp": 1721550000,
+          "value": 510
+        }
+      },
+      "ph": {
+        "-Nbbb111": {
+          "timestamp": 1721548800,
+          "value": 6.85
+        },
+        "-Nbbb112": {
+          "timestamp": 1721549400,
+          "value": 6.9
+        },
+        "-Nbbb113": {
+          "timestamp": 1721550000,
+          "value": 7.05
+        }
+      },
+      "temperature": {
+        "-Nccc111": {
+          "timestamp": 1721548800,
+          "value": 28.1
+        },
+        "-Nccc112": {
+          "timestamp": 1721549400,
+          "value": 28.3
+        },
+        "-Nccc113": {
+          "timestamp": 1721550000,
+          "value": 28.5
+        }
+      }
+    }
+  }
+  
