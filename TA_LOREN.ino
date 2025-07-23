@@ -8,8 +8,8 @@
 #define WIFI_SSID "NAMA_WIFI"
 #define WIFI_PASSWORD "PASSWORD_WIFI"
 
-#define FIREBASE_HOST "https://console-iot-default-rtdb.asia-southeast1.firebasedatabase.app/"
-#define FIREBASE_AUTH "AIzaSyC3fjOk-Xs7vN4eqbPbvgKzmhTCjo9DOQM"
+#define FIREBASE_HOST "https://ta-loren-default-rtdb.asia-southeast1.firebasedatabase.app/"
+#define FIREBASE_AUTH "AIzaSyBf6qlzdo5PAftRJQGugwH6dYnr6-3jpq0"
 
 // Pin sensor
 #define TDS_SENSOR_PIN 2
