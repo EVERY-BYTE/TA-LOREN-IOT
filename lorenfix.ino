@@ -72,9 +72,6 @@ const unsigned long saveMsgDuration = 2000UL; // 2 detik
 #define API_KEY "AIzaSyBf6qlzdo5PAftRJQGugwH6dYnr6-3jpq0"
 #define DATABASE_URL "https://ta-loren-default-rtdb.asia-southeast1.firebasedatabase.app/"
 
-#define FIREBASE_HOST 
-#define FIREBASE_AUTH 
-
 FirebaseData fbdo;
 FirebaseAuth auth;
 FirebaseConfig config;
